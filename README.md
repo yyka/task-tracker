@@ -25,6 +25,10 @@ task-tracker.py mark-[in-progress|done] [id]
 task-tracker.py list (todo|in-progress|done)
 ```
 
->! --Random notes--
->! This was my first project done outside of CS50 and CS50P
->! Total time taken: 15h
+<details>
+<summary>Personal notes</summary>
+<ul>
+    <li> This was my first project done outside of CS50 and CS50P
+    <li> Total time taken: 15h
+</ul>
+</details>
