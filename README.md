@@ -1,5 +1,5 @@
 # task-tracker
-A simple Task Tracker CLI app, built in Python.
+A simple CLI app to manage your to-do-list, built in Python
 
 For more info: https://roadmap.sh/projects/task-tracker
 
